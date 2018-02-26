@@ -58,12 +58,13 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="340dp"
+        android:layout_height="500dp"
         android:layout_marginTop="30dp"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
         android:visibility="gone"
         android:id="@+id/image_"
+
 
         />
 
